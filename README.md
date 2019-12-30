@@ -3,7 +3,7 @@
 **********This program was made using beginning level C++ methologies - functions, arrays, loops and data files ************************
 
                                 
-                                -Game working-
+## Game working
  
 1. An input file "words.txt" contains 100 of words.
 2. A word from the input file is chosen randomly and number of blanks are generated.
@@ -13,7 +13,7 @@
 6. When the full hangman is displayed, its game over.
 7. In an output file "scores.txt", the word and its scores obtained are written into it.
 
-                               -Project structure-
+## Project structure
                         
  1. Files
     
