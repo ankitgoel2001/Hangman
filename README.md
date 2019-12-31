@@ -1,6 +1,6 @@
 # Hangman
 
-**********This program was made using beginning level C++ methologies - functions, arrays, loops and data files ************************
+This program was made using beginning level C++ methologies - functions, arrays, loops and data files.
 
                                 
 ## Game working
