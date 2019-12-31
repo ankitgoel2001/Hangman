@@ -25,10 +25,10 @@ int main()
     unsigned seed = time(0); //To generate words randomly
     srand(seed);
 
+    welcomeMessage();
+
     ifstream inputFile;
     inputFile.open("WordList.txt");
-
-    welcomeMessage();
 
     if (!inputFile) //input validation
         cout << "Error! Couldn't open the word list! Game Crashed!!\n";
